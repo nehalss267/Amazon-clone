@@ -9,13 +9,13 @@ This project is a clone of the popular e-commerce website Amazon. It is built us
 1. Clone the repository:
 
    ```
-   git clone https://github.com/your-username/amazon-clone.git
+   git clone https://github.com/nehalss267/Amazon-clone.git
    ```
 
 2. Navigate into the project directory:
 
    ```
-   cd amazon-clone
+   cd Amazon-clone
    ```
 
 3. Open `index.html` in your web browser or serve the project using a local server.
